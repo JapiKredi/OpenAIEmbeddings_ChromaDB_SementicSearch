@@ -1,0 +1,1 @@
+# OpenAIEmbeddings_ChromaDB_SementicSearch
